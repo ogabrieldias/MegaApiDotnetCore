@@ -144,6 +144,25 @@ src
 │   ├── 📂 Repositories     [Repository pattern]
 ```
 
+## 📊 Performance & Benchmarks
+
+- 🚀 **Average Response Time**: The API responds in an average of **X ms**.
+- 🔹 **Load Testing**: Successfully handles **X requests per second** under load.
+- ⚡ **Optimization Strategies**: Implemented caching and indexing for improved performance.
+- 📈 **Scalability**: Designed to support future enhancements and increased traffic.
+
+## 🔐 Security & Best Practices
+
+- 🔹 **Authentication & Authorization**: Secure user authentication and role-based access.
+- 🔹 **Data Protection**: Prevents SQL Injection, XSS, and CSRF attacks.
+- 🔹 **Secure API Headers**: Implements best practices for API security.
+
+## 🧪 Testing & Quality Assurance
+
+- 🔹 **Unit & Integration Tests**: Ensures reliability and stability.
+- 🔹 **Automated Testing Tools**: Uses modern testing frameworks.
+- 🔹 **Continuous Testing Pipeline**: Integrated into CI/CD workflows.
+
 ## License This software is licensed under the terms of the [MIT]
 
 ⌨️ FelipeAguiar -
